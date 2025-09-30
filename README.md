@@ -36,7 +36,7 @@ O projeto é composto por **6 Tabelas** principais, interligadas por Chaves Estr
 *Insira a imagem do seu Diagrama Entidade-Relacionamento (DER/MER) aqui.*
 
 Exemplo:
-![Diagrama do E-commerce](ecommerce.png)
+![Diagrama do E-commerce](ecommerce.jpeg)
 
 
 ---
