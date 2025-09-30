@@ -1,5 +1,3 @@
-# projeto-banco-dados-ecommerce
-Projeto conceitual de banco de dados para um sistema de e-commerce.
 # Projeto Conceitual de Banco de Dados: E-COMMERCE
 
 ## 1. Descrição do Projeto
@@ -33,14 +31,10 @@ O projeto é composto por **6 Tabelas** principais, interligadas por Chaves Estr
 
 ### Diagrama Entidade-Relacionamento (DER)
 
-*Insira a imagem do seu Diagrama Entidade-Relacionamento (DER/MER) aqui.*
-
 Exemplo:
 ![Diagrama do Ecommerce](https://raw.githubusercontent.com/nahfiore02/projeto-banco-dados-ecommerce/main/Ecommerce.jpeg)
 
 
-
----
 
 ## 4. Arquivo de Implementação
 
@@ -57,6 +51,6 @@ O arquivo **`ecommerce_projeto.sql`** contém todo o código necessário para a 
 ## 5. Ferramentas Utilizadas
 
 * **SGBD:** MySQL / MariaDB
-* **Ferramenta de Design:** [**Mencione a ferramenta que você usou, por exemplo: Draw.io**]
+* **Ferramenta de Design:** [**Draw.io**]
 
 *--- Fim do README.md ---*
