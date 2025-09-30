@@ -36,7 +36,8 @@ O projeto é composto por **6 Tabelas** principais, interligadas por Chaves Estr
 *Insira a imagem do seu Diagrama Entidade-Relacionamento (DER/MER) aqui.*
 
 Exemplo:
-https://github.com/nahfiore02/projeto-banco-dados-ecommerce/blob/main/Ecommerce.jpeg
+![Diagrama do Ecommerce](https://raw.githubusercontent.com/nahfiore02/projeto-banco-dados-ecommerce/main/Ecommerce.jpeg)
+
 
 
 ---
